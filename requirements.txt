@@ -1,0 +1,9 @@
+# conda create -p churn python==3.11 -y
+# conda activate "D:\OMG\ML projects\Churn Modeling Using Deep Learning\churn"
+tensorflow==2.15.0
+pandas
+numpy
+streamlit
+scikit-learn
+matplotlib
+tensorboard
